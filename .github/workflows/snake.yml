@@ -4,23 +4,34 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: HP2000C
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=00ff41
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
