@@ -1,3 +1,5 @@
+# ![CodeGIF](https://indoanalytica.com/static/images/bannerr.gif)
+
 # 👋🏻🙂 𝐇𝐞𝐥𝐥𝐨 & 𝐰𝐞𝐥𝐜𝐨𝐦𝐞, 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞! 𝐈’𝐦 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐏. ✊🏻🇮🇷
 ## 🧑🏻‍💻 𝙸'𝚖 𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚊𝚗𝚍 𝙲𝚘𝚗𝚝𝚎𝚗𝚝 𝚌𝚛𝚎𝚊𝚝𝚘𝚛...😎
 # ![Snake](https://raw.githubusercontent.com/HP2000C/HP2000C/gh-pages/github-contribution-grid-snake.svg)
