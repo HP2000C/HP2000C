@@ -6,8 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:8B5CF6&height=200&section=header&text=Hossein%20P.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Programmer%20and%20Content%20Creator&descAlignY=55&descSize=18" width="100%" alt="header"/>
 </p>
 
-# <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> 𝐇𝐞𝐥𝐥𝐨 & 𝐰𝐞𝐥𝐜𝐨𝐦𝐞, 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞! 𝐈’𝐦 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐏. 🇮🇷
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 𝙸'𝚖 𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚊𝚗𝚍 𝙲𝚘𝚗𝚝𝚎𝚗𝚝 𝚌𝚛𝚎𝚊𝚝𝚘𝚛... 😎🙂✊🏻
+# <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> 𝐇𝐞𝐥𝐥𝐨 & 𝐰𝐞𝐥𝐜𝐨𝐦𝐞, 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞! 𝐈’𝐦 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐏.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 𝙸'𝚖 𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚊𝚗𝚍 𝙲𝚘𝚗𝚝𝚎𝚗𝚝 𝚌𝚛𝚎𝚊𝚝𝚘𝚛... 😎🙂🇮🇷✊🏻
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
 
