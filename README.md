@@ -22,9 +22,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
 
-# [![Website](https://img.shields.io/badge/Website-HP.pntr.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://HP.pntr.dev)
-# [![Gmail](https://img.shields.io/badge/Hossein.P.2013.1391%40gmail.com-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hossein.P.2013.1391@gmail.com)
-# ![Profile Views](https://komarev.com/ghpvc/?username=HP2000C&style=for-the-badge&color=000000)
+# [![Website](https://img.shields.io/badge/Website-HP.pntr.dev-057000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://HP.pntr.dev)
+# [![Gmail](https://img.shields.io/badge/Hossein.P.2013.1391%40gmail.com-Gmail-057000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hossein.P.2013.1391@gmail.com)
+# ![Profile Views](https://komarev.com/ghpvc/?username=HP2000C&style=for-the-badge&color=057000)
+
+<a href="https://GitHub.com/HP2000C/HP-Programming-Language">
+  
+# ![Featured Repository](https://img.shields.io/badge/Featured_Repository-HP™_Programming_Language-A00000?style=for-the-badge&logo=github&logoColor=white)
+  
+</a>
 
 ![T1](https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)
 
