@@ -6,6 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:8B5CF6&height=200&section=header&text=Hossein%20P.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Specialist%20and%20Programmer%20and%20Content%20Creator&descAlignY=55&descSize=18" width="100%" alt="header"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
+
 # ![Snake](https://raw.githubusercontent.com/HP2000C/HP2000C/output/github-snake.svg)
 # [![My Skills](https://skillicons.dev/icons?i=ai,py,js,html,css,c,cpp,cs,kotlin,md,github,linkedin,gmail&theme=dark)](https://skillicons.dev)
 
